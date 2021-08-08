@@ -1,4 +1,4 @@
-package com.ejerciciobasico.gato;
+package com.ejercicios_basicos_java;
 
 public class GatoJugando {
 
